@@ -1,5 +1,6 @@
 # RSA_Algorithm
 
+This works for desired number of bits.
 
 To run this :
 1)npm install big-integer
